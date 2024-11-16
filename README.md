@@ -1,1 +1,1 @@
-# portfolio.github.io
+tricch.github.io/portfolio/
