@@ -1,1 +1,1 @@
-tricch.github.io/portfolio
+https://tricch.github.io/portfolio/
