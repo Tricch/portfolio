@@ -108,6 +108,7 @@
       height: 8rem;
       background-color: var(--main-red);
       justify-content: center;
+      z-index: 11;
     }
 
     .nav-list {
