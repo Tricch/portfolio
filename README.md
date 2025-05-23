@@ -1,1 +1,1 @@
-trilokchaudhary.com.np
+www.trilokchaudhary.com.np
