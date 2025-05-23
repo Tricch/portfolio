@@ -1,1 +1,1 @@
-https://tricch.github.io/portfolio/
+trilokchaudhary.com.np
